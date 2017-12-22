@@ -1,3 +1,17 @@
-body{
-  color:red;
+/*all document rules*/
+html{
+  font-size: 18px;
+  line-height: 1.4;
+}
+/*header*/
+.header {
+  background-image:url("glasses-bg.png");
+  height: 31rem
+}
+.menu{
+  background-color: cadetblue;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
